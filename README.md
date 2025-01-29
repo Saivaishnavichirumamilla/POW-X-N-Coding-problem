@@ -20,6 +20,6 @@
 ###### Explanation: 2-2 = 1/22 = 1/4 = 0.25
 
 
-# Solution
+
  
 
